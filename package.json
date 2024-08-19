@@ -23,7 +23,6 @@
   },
   "dependencies": {
     "@resvg/resvg-js": "^2.6.2",
-    "@resvg/resvg-wasm": "^2.6.2",
     "circuit-to-svg": "^0.0.1"
   }
 }
